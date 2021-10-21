@@ -1,12 +1,11 @@
 live_trade = True
 
-coin     = ["BTC", "ETH" "SOL", "GRT", "KSM", "BNB", "AAVE", "HNT", "ADA", "DOT"]
+coin     = ["BTC", "ETH", "SOL", "GRT", "KSM", "BNB", "AAVE", "HNT", "ADA", "DOT"]
 quantity = [0.002, 0.03, 1, 50, 0.2, 0.12, 0.2, 3, 40, 2]
 
 
 # profit_margin * leverage = Actual Profit Percentage.
-profit_margin = 2
-
+profit_margin = 4
 # ====================================================
 #        !! DO NOT CHANGE THE LEVERAGE !!
 # ====================================================
