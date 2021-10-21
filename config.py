@@ -5,7 +5,7 @@ quantity = [1, 50, 0.2, 0.12, 0.2,]
 
 
 # profit_margin * leverage = Actual Profit Percentage.
-profit_margin = 0.2
+profit_margin = 2
 
 # ====================================================
 #        !! DO NOT CHANGE THE LEVERAGE !!
